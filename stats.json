@@ -1,0 +1,5 @@
+{
+  "builders": 0,
+  "updated": "2026-07-06",
+  "note": "Edit 'builders' with the real WhatsApp group participant count (WhatsApp app -> the group -> Group Info), then re-upload this file. No code changes needed."
+}
